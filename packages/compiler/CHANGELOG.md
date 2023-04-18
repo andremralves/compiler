@@ -1,5 +1,11 @@
 # @astrojs/compiler
 
+## 1.3.2
+
+### Patch Changes
+
+- b0e0cfd: Add a sync entrypoint
+
 ## 1.3.1
 
 ### Patch Changes
